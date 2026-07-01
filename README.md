@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhargavi-priya&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhargavi-priya&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhargavi Priya</h1>
@@ -93,15 +93,21 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargavi-priya&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-priya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargavi-priya&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-priya&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=github-dark&hide_border=true"/>
 </p>
+
+---
+
+
 
 
 
