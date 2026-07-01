@@ -2,18 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=bhargavi-priya&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Bhargavi+Priya;Bioinformatics+Undergraduate;Computational+Biology+Enthusiast;Python+Developer;Machine+Learning+Learner;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Bhargavi Priya</h1>
 
 <h3 align="center">
-Bioinformatics Undergraduate • Computational Biology Enthusiast • AI in Life Sciences
+🧬 Bioinformatics Undergraduate | 💻 Python Developer | 🤖 AI & Computational Biology Enthusiast
 </h3>
 
 <p align="center">
-Passionate about combining Biology, Artificial Intelligence, and Programming to solve real-world healthcare and research challenges.
+Passionate about Bioinformatics, Genomics, Machine Learning, Protein Structure Prediction, and building impactful open-source projects.
 </p>
 
 ---
@@ -26,8 +22,6 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 - 💻 Currently working with Python, R, Git, Linux, and Bioinformatics tools
 - 🚀 Building portfolio projects to strengthen my research and software development skills
 - 📚 Always learning something new in Bioinformatics and Machine Learning
-- 
----
 
 ## 💻 Tech Stack
 
@@ -89,19 +83,6 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bobbala-rammanagari-bhargavi-priya-02285b32a
 - 📧 Email: bhargavireddy3125@gmail.com
-
-## ✨ Quote
-
-> *"Turning biological data into meaningful discoveries through code and curiosity."* 🧬💻
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavi-priya&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-priya&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
