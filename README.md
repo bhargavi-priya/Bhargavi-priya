@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhargavi Priya</h1>
 
-<!--
-**bhargavi-priya/Bhargavi-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Bioinformatics Undergraduate • Computational Biology Enthusiast • AI in Life Sciences
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about combining Biology, Artificial Intelligence, and Programming to solve real-world healthcare and research challenges.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 About Me
+
+- 🎓 B.Tech in Bioinformatics (3rd Year)
+- 🔬 Interested in Computational Biology, Genomics, and AI in Healthcare
+- 🧬 Exploring Protein Structure Prediction, NGS, CRISPR, and Drug Discovery
+- 💻 Currently working with Python, R, Git, Linux, and Bioinformatics tools
+- 🚀 Building portfolio projects to strengthen my research and software development skills
+- 📚 Always learning something new in Bioinformatics and Machine Learning
