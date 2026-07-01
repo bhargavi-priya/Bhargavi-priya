@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=bhargavi-priya&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Bhargavi+Priya;Bioinformatics+Undergraduate;Computational+Biology+Enthusiast;Python+Developer;Machine+Learning+Learner;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhargavi Priya</h1>
 
 <h3 align="center">
