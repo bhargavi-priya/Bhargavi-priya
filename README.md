@@ -77,6 +77,16 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 - ✅ Publish Research-Oriented Projects
 - ✅ Secure a Bioinformatics Internship
 
+  <a href="https://www.linkedin.com/in/bobbala-rammanagari-bhargavi-priya-02285b32a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhargavireddy3125@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+ 
+
 
 
 
