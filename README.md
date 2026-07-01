@@ -18,3 +18,65 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 - 💻 Currently working with Python, R, Git, Linux, and Bioinformatics tools
 - 🚀 Building portfolio projects to strengthen my research and software development skills
 - 📚 Always learning something new in Bioinformatics and Machine Learning
+- 
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" />
+
+</p>
+
+### 🧬 Bioinformatics
+- Next Generation Sequencing (NGS)
+- Computational Biology
+- Protein Structure Prediction
+- Protein–Protein Interaction Analysis
+- Biological Databases
+- Genomics
+- Molecular Biology
+- Machine Learning for Biology (Learning)
+
+## 🚀 Featured Projects
+
+### 🧬 Single-cell RNA-seq Analysis
+- Clustering and visualization of PBMC 3K dataset using Seurat.
+- Identified cell populations and marker genes.
+
+### 🧬 AlphaFold Protein Structure Analysis
+- Protein structure prediction and structural analysis using AlphaFold.
+
+### 🧬 Protein–Protein Interaction Network
+- Network construction and interaction analysis using bioinformatics databases.
+
+### 🧬 Pathway Enrichment Analysis
+- Functional enrichment analysis for biological pathways and gene ontology.
+
+### 🚧 AI Drug Discovery Platform *(Coming Soon)*
+
+### 🚧 CRISPR Therapeutic Design Platform *(Coming Soon)*
+
+## 📚 Currently Learning
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 🧬 Structural Bioinformatics
+- ☁️ Cloud Computing for Bioinformatics
+- 📊 Data Visualization
+
+
+
+## 🎯 Goals
+
+- ✅ Build 15+ Bioinformatics Projects
+- ✅ Master Python for Bioinformatics
+- ✅ Learn Advanced Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Publish Research-Oriented Projects
+- ✅ Secure a Bioinformatics Internship
+
+
+
+
