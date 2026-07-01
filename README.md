@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhargavi-priya&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhargavi Priya</h1>
 
 <h3 align="center">
@@ -82,7 +86,24 @@ Passionate about combining Biology, Artificial Intelligence, and Programming to 
 - 💼 LinkedIn: https://www.linkedin.com/in/bobbala-rammanagari-bhargavi-priya-02285b32a
 - 📧 Email: bhargavireddy3125@gmail.com
 
----
+## ✨ Quote
+
+> *"Turning biological data into meaningful discoveries through code and curiosity."* 🧬💻
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargavi-priya&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-priya&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=tokyonight" />
+</p>
+
+
 
  
 
