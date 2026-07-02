@@ -90,9 +90,7 @@ Passionate about Bioinformatics, Genomics, Machine Learning, Protein Structure P
   <img src="https://ghstats.dev/api/card?username=bhargavi-priya&theme=github-dark" width="500"/>
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/languages?username=bhargavi-priya&theme=github-dark" width="500"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=github-dark&hide_border=true" width="500"/>
