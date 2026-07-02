@@ -84,13 +84,20 @@ Passionate about Bioinformatics, Genomics, Machine Learning, Protein Structure P
 - 💼 LinkedIn: https://www.linkedin.com/in/bobbala-rammanagari-bhargavi-priya-02285b32a
 - 📧 Email: bhargavireddy3125@gmail.com
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=github-dark&hide_border=true"/>
+  <img src="https://ghstats.dev/api/card?username=bhargavi-priya&theme=github-dark" width="500"/>
 </p>
 
----
+<p align="center">
+  <img src="https://ghstats.dev/api/languages?username=bhargavi-priya&theme=github-dark" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=github-dark&hide_border=true" width="500"/>
+</p>
+
 
 
 
