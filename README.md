@@ -92,9 +92,7 @@ Passionate about Bioinformatics, Genomics, Machine Learning, Protein Structure P
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhargavi-priya&theme=github-dark&hide_border=true" width="500"/>
-</p>
+
 
 
 
