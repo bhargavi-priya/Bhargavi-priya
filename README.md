@@ -371,19 +371,6 @@ Future Goals:
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bhargavi-priya/bhargavi-priya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
-> **Note:** The snake animation won't appear until you set up a GitHub Actions workflow. I can help you with that after your README is complete.
-
-
 
 # 🌐 Connect With Me
 
